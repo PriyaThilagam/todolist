@@ -65,17 +65,20 @@ todo-app/
 
 ## ⚙️ How to Run the Project Locally
 
-*Set Up Backend:*
+### 🔧 Set Up Backend
 
+```bash
 cd backend
 npm install
 npm run dev
 
-*Set Up Frontend:*
+### 🔧 Set Up Frontend
 
+```bash
 cd frontend
 npm install
 npm start
+
 
 The frontend will run on http://localhost:3000
 The backend runs on http://localhost:5000
