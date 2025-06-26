@@ -38,6 +38,7 @@ A clean, responsive and modern full-stack **To-Do List** application built using
 ---
 
 ## 📂 Folder Structure
+```
 
 todo-app/
 ├── backend/
@@ -62,7 +63,7 @@ todo-app/
 │ └── package.json
 
 ---
-
+```
 ## ⚙️ How to Run the Project Locally
 
 ### 🔧 Set Up Backend
@@ -71,6 +72,7 @@ todo-app/
 cd backend
 npm install
 npm run dev
+```
 
 ### 🔧 Set Up Frontend
 
@@ -78,7 +80,7 @@ npm run dev
 cd frontend
 npm install
 npm start
-
+```
 
 The frontend will run on http://localhost:3000
 The backend runs on http://localhost:5000
@@ -88,3 +90,4 @@ The backend runs on http://localhost:5000
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
+```
