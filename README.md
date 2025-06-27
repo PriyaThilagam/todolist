@@ -14,7 +14,6 @@ A clean, responsive and modern full-stack **To-Do List** application built using
 - 🖌 Clean, minimal and responsive UI  
 - 🔄 Instant updates without refreshing the page  
 
----
 <!-- 
 ## 📸 UI Preview
 
@@ -24,7 +23,6 @@ Add screenshots or GIFs here -->
 ![View Tasks](screenshots/view-tasks.png)
 -->
 
----
 
 ## 🛠 Tech Stack
 
