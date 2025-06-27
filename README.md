@@ -15,10 +15,10 @@ A clean, responsive and modern full-stack **To-Do List** application built using
 - 🔄 Instant updates without refreshing the page  
 
 ---
-
+<!-- 
 ## 📸 UI Preview
 
-<!-- Add screenshots or GIFs here -->
+Add screenshots or GIFs here -->
 <!-- Example:
 ![Create Task](screenshots/create-task.png)
 ![View Tasks](screenshots/view-tasks.png)
